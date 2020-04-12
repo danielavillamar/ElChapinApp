@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">El Chapin App</string>
+    <string name="Wallpaper" />
+    <string name="button_ati">Atitlán</string>
+    <string name="button_antigua">Antigua Guatemala</string>
+    <string name="button_tikal">Tikal</string>
+    <string name="text_nombre">Name:</string>
+    <string name="hint_nombre">What´s your name?</string>
+    <string name="start" />
+    <string name="WallpaperBoton" />
+    <string name="text_titulo">Guatemala</string>
+</resources>
